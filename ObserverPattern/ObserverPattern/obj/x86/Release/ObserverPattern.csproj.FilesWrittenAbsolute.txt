@@ -1,0 +1,5 @@
+/Users/user/Projects/ObserverPattern/ObserverPattern/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/user/Projects/ObserverPattern/ObserverPattern/bin/Release/ObserverPattern.exe.mdb
+/Users/user/Projects/ObserverPattern/ObserverPattern/bin/Release/ObserverPattern.exe
+/Users/user/Projects/ObserverPattern/ObserverPattern/obj/x86/Release/ObserverPattern.exe
+/Users/user/Projects/ObserverPattern/ObserverPattern/obj/x86/Release/ObserverPattern.exe.mdb

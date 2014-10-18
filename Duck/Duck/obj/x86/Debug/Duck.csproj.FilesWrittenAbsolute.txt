@@ -1,0 +1,10 @@
+/Users/user/Projects/Duck/Duck/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/user/Projects/Duck/Duck/bin/Debug/Duck.exe.mdb
+/Users/user/Projects/Duck/Duck/bin/Debug/Duck.exe
+/Users/user/Projects/Duck/Duck/obj/x86/Debug/Duck.exe
+/Users/user/Projects/Duck/Duck/obj/x86/Debug/Duck.exe.mdb
+/Users/user/projects/Duck/Duck/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/user/projects/Duck/Duck/bin/Debug/Duck.exe.mdb
+/Users/user/projects/Duck/Duck/bin/Debug/Duck.exe
+/Users/user/projects/Duck/Duck/obj/x86/Debug/Duck.exe
+/Users/user/projects/Duck/Duck/obj/x86/Debug/Duck.exe.mdb

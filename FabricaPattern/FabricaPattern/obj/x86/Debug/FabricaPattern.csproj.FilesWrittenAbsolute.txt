@@ -1,0 +1,8 @@
+/Users/user/Projects/FabricaPattern/FabricaPattern/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/user/Projects/FabricaPattern/FabricaPattern/bin/Debug/FabricaPattern.exe.mdb
+/Users/user/Projects/FabricaPattern/FabricaPattern/bin/Debug/FabricaPattern.exe
+/Users/user/Projects/FabricaPattern/FabricaPattern/obj/x86/Debug/FabricaPattern.exe
+/Users/user/Projects/FabricaPattern/FabricaPattern/obj/x86/Debug/FabricaPattern.exe.mdb
+/Users/user/projects/FabricaPattern/FabricaPattern/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/user/projects/FabricaPattern/FabricaPattern/obj/x86/Debug/FabricaPattern.exe
+/Users/user/projects/FabricaPattern/FabricaPattern/obj/x86/Debug/FabricaPattern.exe.mdb

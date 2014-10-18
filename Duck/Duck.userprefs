@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Duck/Program.cs">
+    <Files>
+      <File FileName="Duck/Program.cs" Line="13" Column="13" />
+      <File FileName="Duck/Duck.cs" Line="1" Column="1" />
+      <File FileName="Duck/FlyBehavior.cs" Line="1" Column="1" />
+      <File FileName="Duck/QuackBehavior.cs" Line="1" Column="1" />
+      <File FileName="Duck/MallardDuck.cs" Line="1" Column="1" />
+      <File FileName="Duck/ModelDuck.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
