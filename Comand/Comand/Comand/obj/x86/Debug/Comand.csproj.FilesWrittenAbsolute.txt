@@ -1,0 +1,5 @@
+/Users/user/Documents/workspace/Xamarin/Projects/Comand/Comand/Comand/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/user/Documents/workspace/Xamarin/Projects/Comand/Comand/Comand/bin/Debug/Comand.exe.mdb
+/Users/user/Documents/workspace/Xamarin/Projects/Comand/Comand/Comand/bin/Debug/Comand.exe
+/Users/user/Documents/workspace/Xamarin/Projects/Comand/Comand/Comand/obj/x86/Debug/Comand.exe
+/Users/user/Documents/workspace/Xamarin/Projects/Comand/Comand/Comand/obj/x86/Debug/Comand.exe.mdb

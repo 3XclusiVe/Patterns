@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IncapsulationOfMethod/Tea.cs">
+    <Files>
+      <File FileName="IncapsulationOfMethod/Program.cs" Line="33" Column="33" />
+      <File FileName="IncapsulationOfMethod/Coffee.cs" Line="9" Column="9" />
+      <File FileName="IncapsulationOfMethod/prepareRecipe.cs" Line="9" Column="9" />
+      <File FileName="IncapsulationOfMethod/CaffeineBeverage.cs" Line="24" Column="24" />
+      <File FileName="IncapsulationOfMethod/Tea.cs" Line="10" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

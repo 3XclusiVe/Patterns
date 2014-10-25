@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Comand/Program.cs">
+    <Files>
+      <File FileName="Comand/Program.cs" Line="42" Column="42" />
+      <File FileName="Comand/Command.cs" Line="21" Column="21" />
+      <File FileName="Comand/LighOnCommand.cs" Line="25" Column="25" />
+      <File FileName="Comand/SingleRemoteControl.cs" Line="17" Column="17" />
+      <File FileName="Comand/Light.cs" Line="6" Column="6" />
+      <File FileName="Comand/GarageDoorOpenCommand.cs" Line="10" Column="10" />
+      <File FileName="Comand/GarageDoor.cs" Line="13" Column="13" />
+      <File FileName="Comand/NoCommand.cs" Line="12" Column="12" />
+      <File FileName="Comand/LightOffCommand.cs" Line="10" Column="10" />
+      <File FileName="Comand/Stereo.cs" Line="1" Column="1" />
+      <File FileName="Comand/StereoWithCDCommand.cs" Line="23" Column="23" />
+      <File FileName="Comand/RoomLight.cs" Line="10" Column="10" />
+      <File FileName="Comand/GarageDoorCloseCommand.cs" Line="17" Column="17" />
+      <File FileName="Comand/CeilingFan.cs" Line="16" Column="16" />
+      <File FileName="Comand/CeillingFanHighCommand.cs" Line="42" Column="42" />
+      <File FileName="Comand/MacroCommand.cs" Line="33" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

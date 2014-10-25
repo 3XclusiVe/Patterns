@@ -1,0 +1,5 @@
+/Users/user/Documents/workspace/Xamarin/Projects/Singletone/Singletone/Singletone/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/user/Documents/workspace/Xamarin/Projects/Singletone/Singletone/Singletone/bin/Debug/Singletone.exe.mdb
+/Users/user/Documents/workspace/Xamarin/Projects/Singletone/Singletone/Singletone/bin/Debug/Singletone.exe
+/Users/user/Documents/workspace/Xamarin/Projects/Singletone/Singletone/Singletone/obj/x86/Debug/Singletone.exe
+/Users/user/Documents/workspace/Xamarin/Projects/Singletone/Singletone/Singletone/obj/x86/Debug/Singletone.exe.mdb

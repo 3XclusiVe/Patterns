@@ -1,0 +1,5 @@
+/Users/user/Documents/workspace/Xamarin/Projects/AdapterPattern/AdapterPattern/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/user/Documents/workspace/Xamarin/Projects/AdapterPattern/AdapterPattern/bin/Debug/AdapterPattern.exe.mdb
+/Users/user/Documents/workspace/Xamarin/Projects/AdapterPattern/AdapterPattern/bin/Debug/AdapterPattern.exe
+/Users/user/Documents/workspace/Xamarin/Projects/AdapterPattern/AdapterPattern/obj/x86/Debug/AdapterPattern.exe
+/Users/user/Documents/workspace/Xamarin/Projects/AdapterPattern/AdapterPattern/obj/x86/Debug/AdapterPattern.exe.mdb
